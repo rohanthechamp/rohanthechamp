@@ -5,6 +5,19 @@
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rohanmalve) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/18039016) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rohanmalve810@gmail.com) 
 
+## 🚀 Featured Project — Hotel Management System
+
+A full-stack, production-style hotel management platform built with Django REST and React/Next.js.
+
+**What it includes**
+- JWT-based authentication & role-based access control (RBAC)
+- Booking, check-in & check-out workflows
+- Staff & guest management
+- Daily activity & revenue dashboards
+- Clean REST APIs backed by PostgreSQL
+
+This project is designed like a real business system, not a demo.
+
 # 💻 Tech Stack:
 ---
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge\&logo=python\&logoColor=ffdd54)
@@ -48,13 +61,3 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=rohanthechamp&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rohanthechamp&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=rohanthechamp&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-[![](https://visitcount.itsvg.in/api?id=rohanthechamp&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
