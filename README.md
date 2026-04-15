@@ -1,19 +1,20 @@
 <h1 align="center">Hi, I’m Rohan Malve 👋</h1>
+
 <h3 align="center">Backend-Focused Full-Stack Developer | Python • Django • Flask • React • Next.js</h3>
 
 <p align="center">
-  I build production-ready web apps with clean APIs, solid databases, and real-world workflows.
+  I build production-ready web apps with clean APIs, strong databases, and real-world workflows.
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/rohanmalve">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  <a href="https://linkedin.com/in/rohanmalve" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/rohanthechamp">
-    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  <a href="https://github.com/rohanthechamp" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="mailto:rohanmalve810@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
@@ -29,7 +30,7 @@
 
 ## 🚀 Featured Projects
 
-### Flask E-Commerce Platform
+### 🔹 Flask E-Commerce Platform
 Production-deployed e-commerce app built with Flask, PostgreSQL, Redis, and real backend workflows.
 
 **Highlights**
@@ -39,8 +40,10 @@ Production-deployed e-commerce app built with Flask, PostgreSQL, Redis, and real
 - Admin dashboard
 - Deployed on Render
 
-### Hotel Management System
-Full-stack hotel platform built with Django REST Framework and React/Next.js.
+🔗 Live Demo: https://flask-ecommerce-platform-il6s.onrender.com
+
+### 🔹 Hotel Management System
+Full-stack hotel platform built using Django REST Framework and React/Next.js.
 
 **Highlights**
 - JWT authentication and RBAC
@@ -53,8 +56,8 @@ Full-stack hotel platform built with Django REST Framework and React/Next.js.
 
 ## 🛠️ Tech Stack
 
-### Backend
-<p>
+### 🔥 Backend
+<p align="left">
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
   <img src="https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" />
   <img src="https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" />
@@ -65,8 +68,8 @@ Full-stack hotel platform built with Django REST Framework and React/Next.js.
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white" />
 </p>
 
-### Frontend
-<p>
+### ⚛️ Frontend
+<p align="left">
   <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
   <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
@@ -79,8 +82,8 @@ Full-stack hotel platform built with Django REST Framework and React/Next.js.
   <img src="https://img.shields.io/badge/Context%20API-20232A?style=for-the-badge&logo=react&logoColor=white" />
 </p>
 
-### UI / Styling
-<p>
+### 🎨 UI / Styling
+<p align="left">
   <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
@@ -88,27 +91,18 @@ Full-stack hotel platform built with Django REST Framework and React/Next.js.
   <img src="https://img.shields.io/badge/Chart.js-F5788D.svg?style=for-the-badge&logo=chartdotjs&logoColor=white" />
 </p>
 
-### Tools & Workflow
-<p>
+### 🚀 Tools / Deployment / Workflow
+<p align="left">
   <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Render-%2346E3B7.svg?style=for-the-badge&logo=render&logoColor=white" />
   <img src="https://img.shields.io/badge/GitLab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white" />
   <img src="https://img.shields.io/badge/GitLab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white" />
-  <img src="https://img.shields.io/badge/Heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white" />
-  <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" />
   <img src="https://img.shields.io/badge/Sentry-%23362D59.svg?style=for-the-badge&logo=sentry&logoColor=white" />
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
   <img src="https://img.shields.io/badge/Selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
   <img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" />
-</p>
-
-### Other
-<p>
-  <img src="https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white" />
-  <img src="https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white" />
-  <img src="https://img.shields.io/badge/Elasticsearch-%230377CC.svg?style=for-the-badge&logo=elasticsearch&logoColor=white" />
-  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" />
 </p>
 
 ---
@@ -137,3 +131,22 @@ Full-stack hotel platform built with Django REST Framework and React/Next.js.
 - LinkedIn: https://linkedin.com/in/rohanmalve
 - GitHub: https://github.com/rohanthechamp
 - Email: rohanmalve810@gmail.com
+
+---
+
+## ⚡ Philosophy
+
+I treat every project like a real product.  
+If it’s not structured, secure, and deployable, I keep improving it.
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rohanthechamp&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
+  <br/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=rohanthechamp&theme=dark&hide_border=false" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohanthechamp&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+</p>
