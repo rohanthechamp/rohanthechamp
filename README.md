@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Build-Ship-Debug-111827?style=for-the-badge&logo=rocket&logoColor=white" />
+  <img src="https://img.shields.io/badge/Build%20Ship%20Debug-111827?style=for-the-badge&logo=code&logoColor=white" />
   <img src="https://img.shields.io/badge/Backend%20First-7C3AED?style=for-the-badge&logo=serverless&logoColor=white" />
   <img src="https://img.shields.io/badge/Production%20Mindset-0F766E?style=for-the-badge&logo=checkmarx&logoColor=white" />
 </p>
