@@ -2,93 +2,179 @@
 
 <p align="center">
   <b>Backend-Focused Full-Stack Developer</b> <br/>
-  I build production-ready systems with <b>Python (Django/Flask)</b>, <b>PostgreSQL</b>, and <b>React/Next.js</b>.
+  I build production-ready systems with <b>Django REST</b>, <b>Flask</b>, <b>PostgreSQL</b>, <b>React</b>, and <b>Next.js</b>.
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/rohanmalve" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:rohanmalve810@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <img src="https://img.shields.io/badge/Build-Ship-Debug-111827?style=for-the-badge&logo=rocket&logoColor=white" />
+  <img src="https://img.shields.io/badge/Backend%20First-7C3AED?style=for-the-badge&logo=serverless&logoColor=white" />
+  <img src="https://img.shields.io/badge/Production%20Mindset-0F766E?style=for-the-badge&logo=checkmarx&logoColor=white" />
 </p>
-
----
-
-## ⚡ Operating Philosophy
-
-I don't build throwaway demos. I build applications engineered for the real world. My primary focus is on **robust APIs, relational database design, secure authentication, and shipping reliable code.** > *Build clean. Ship real. Debug the hard parts. Improve until production feels boring.*
-
----
-
-## 🚀 Proof of Work (Featured Systems)
-
-### 01 — Production E-Commerce Engine (Flask)
-A complete, deployed e-commerce backend handling real-world workflows from cart state to checkout.
-* **The Architecture:** Flask API, PostgreSQL for persistent data, Redis for fast cart/session management.
-* **The Hard Parts:** Integrated Stripe payment gateways, implemented Google OAuth + Email auth, and deployed live on Render.
-* 🔗 Live Demo: [flask-ecommerce-platform-il6s.onrender.com](https://flask-ecommerce-platform-il6s.onrender.com)
-
-### 02 — Data-Heavy Expense Tracker (Django)
-A backend-heavy financial tool focused on structured workflows, data handling, and automation.
-* **The Architecture:** Django, PostgreSQL. 
-* **The Hard Parts:** Built robust database populator scripts for stress-testing, implemented full-text search, and optimized PostgreSQL queries to handle large datasets efficiently.
-
-### 03 — Hotel Management Platform (Django REST + Next.js)
-An API-driven platform decoupling the backend logic from modern server-side rendered frontends.
-* **The Architecture:** DRF serving data to a React/Next.js interface.
-* **The Hard Parts:** Role-Based Access Control (RBAC) via JWTs, complex booking logic, and handling server-side rendering for optimal performance.
-
----
-
-## 🛠️ Technical Arsenal
-
-### ⚙️ Backend & API Design
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-flat&logo=python&logoColor=ffdd54" />
-  <img src="https://img.shields.io/badge/Django-%23092E20.svg?style=for-flat&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django%20REST-ff1709?style=for-flat&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-%23000.svg?style=for-flat&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/Celery-37814A?style=for-flat&logo=celery&logoColor=white" />
-</p>
-
-### 🗄️ Database, Search & Message Brokers
-<p align="left">
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-flat&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-%23DD0031.svg?style=for-flat&logo=redis&logoColor=white" />
-  <img src="https://img.shields.io/badge/Elasticsearch-%230377CC.svg?style=for-flat&logo=elasticsearch&logoColor=white" />
-  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-flat&logo=rabbitmq&logoColor=white" />
-</p>
-
-### 💻 Client-Side & UI Engineering
-<p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-flat&logo=javascript&logoColor=%23F7DF1E" />
-  <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-flat&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-flat&logo=react&logoColor=%2361DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-black?style=for-flat&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redux-%23593d88.svg?style=for-flat&logo=redux&logoColor=white" />
-  <img src="https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-flat&logo=tailwind-css&logoColor=white" />
-</p>
-
-### 🏗️ Infrastructure & Quality Assurance
-<p align="left">
-  <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-flat&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitLab%20CI-%23181717.svg?style=for-flat&logo=gitlab&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jest-%23C21325?style=for-flat&logo=jest&logoColor=white" />
-  <img src="https://img.shields.io/badge/Sentry-%23362D59.svg?style=for-flat&logo=sentry&logoColor=white" />
-</p>
-
----
-
-## 📚 Current Trajectory
-
-Great engineers never stop reading. I am currently focused on:
-* **System Design:** Studying *Designing Data-Intensive Applications* to build at scale.
-* **Database Optimization:** Deep diving into advanced SQL, indexing strategies, and PostgreSQL internals.
-* **Modern SSR:** Refining my Next.js skills to bridge the gap between fast APIs and seamless client experiences.
-
----
-
-## 📈 GitHub Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rohanthechamp&theme=transparent&hide_border=true&include_all_commits=false&count_private=false" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohanthechamp&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&layout=compact" width="48%" />
+  <a href="https://linkedin.com/in/rohanmalve" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/rohanthechamp" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="mailto:rohanmalve810@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+---
+
+## ⚡ Mission Brief
+
+```txt
+Status: Building real systems
+Mode: Backend-focused full-stack
+Mission: Ship software that survives production
+Specialty: APIs, databases, auth, deployment, debugging
+```
+
+---
+
+## 🧠 What I Build
+
+I do not build throwaway demos.
+I build applications like they are going to be used.
+
+* Clean APIs that make frontend work easier
+* Secure authentication and authorization flows
+* Database structures that can grow with the app
+* Production deployments that actually work outside localhost
+* Debugging when real-world issues appear
+
+---
+
+## 🚀 Featured Systems
+
+### 01 — Flask E-Commerce Platform
+
+A production-deployed e-commerce system built with Flask, PostgreSQL, Redis, and real backend workflows.
+
+**What makes it real:**
+
+* Email + Google OAuth authentication
+* Cart, wishlist, checkout, and order management
+* Stripe payment flow
+* Admin dashboard
+* Deployed on Render
+
+🔗 Live Demo: [https://flask-ecommerce-platform-il6s.onrender.com](https://flask-ecommerce-platform-il6s.onrender.com)
+
+### 02 — Hotel Management System
+
+A full-stack hotel platform built with Django REST Framework and React/Next.js.
+
+**What makes it real:**
+
+* JWT authentication and RBAC
+* Booking workflows
+* Staff and guest management
+* Reporting dashboards
+* API-driven architecture
+
+### 03 — Django Expense Tracker
+
+A backend-heavy project focused on structured finance workflows, automation, and data handling.
+
+---
+
+## 🛠️ Tech Universe
+
+### Backend Engine
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django%20REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray" />
+  <img src="https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white" />
+</p>
+
+### Frontend Layer
+
+<p align="left">
+  <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+  <img src="https://img.shields.io/badge/Redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" />
+  <img src="https://img.shields.io/badge/React%20Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white" />
+  <img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white" />
+  <img src="https://img.shields.io/badge/React%20Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" />
+  <img src="https://img.shields.io/badge/Context%20API-20232A?style=for-the-badge&logo=react&logoColor=white" />
+</p>
+
+### Interface Craft
+
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Chart.js-F5788D.svg?style=for-the-badge&logo=chartdotjs&logoColor=white" />
+</p>
+
+### Delivery / Tooling / Deployment
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Render-%2346E3B7.svg?style=for-the-badge&logo=render&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
+</p>
+
+---
+
+## 📚 Currently Learning
+
+* Advanced SQL and query optimization
+* System design from *Designing Data-Intensive Applications*
+* Backend architecture and scalability
+
+---
+
+## 💬 Ask Me About
+
+* Django REST Framework
+* Flask backend development
+* PostgreSQL and Redis
+* JWT authentication
+* API design
+* Production deployment and debugging
+
+---
+
+## 🌟 Operating Principles
+
+> Build clean.
+> Ship real.
+> Debug the hard parts.
+> Improve until production feels boring.
+
+---
+
+## 🌐 Connect With Me
+
+* LinkedIn: [https://linkedin.com/in/rohanmalve](https://linkedin.com/in/rohanmalve)
+* GitHub: [https://github.com/rohanthechamp](https://github.com/rohanthechamp)
+* Email: [rohanmalve810@gmail.com](mailto:rohanmalve810@gmail.com)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rohanthechamp&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
+  <br/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=rohanthechamp&theme=dark&hide_border=false" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohanthechamp&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
 </p>
