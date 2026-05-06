@@ -26,13 +26,10 @@
 ---
 
 ## ⚡ Mission Brief
+> **[SYSTEM_STATUS]:** `Active` 🟢
+> **[FOCUS]:** `Scalable Backend Architectures`
+> **[MISSION]:** `Ship software that survives production`
 
-```txt
-Status: Building real systems
-Mode: Backend-focused full-stack
-Mission: Ship software that survives production
-Specialty: APIs, databases, auth, deployment, debugging
-```
 
 ---
 
@@ -114,7 +111,14 @@ A simulated internal hotel operations system built with Django REST Framework an
 
 
 
-### 03 — Django Expense Tracker
+<br>
+<h1 align="center">
+  <b style="color: #FF5733;">03 — </b>
+  <span style="color: #FFD700;"><b>Django</b></span> 
+  <span style="color: #27AE60;"><b>Expense</b></span> 
+  <span style="color: #2C3E50;"><b>Tracker</b></span>
+</h1>
+in 
 
 A backend-heavy project focused on structured finance workflows, automation, and data handling.
 
@@ -233,4 +237,11 @@ A backend-heavy project focused on structured finance workflows, automation, and
   <br/>
   <img src="https://vercel.app" alt="Top Languages" />
 </p>
+
+
+<p align="center">
+  <br />
+  <a href="#rohan-malve-"><b>Back to Top ↑</b></a>
+</p>
+
 
