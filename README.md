@@ -62,7 +62,7 @@ A production-deployed e-commerce system built with Flask, PostgreSQL, Redis, and
 *   Admin dashboard
 *   Deployed on Render
 
-  <img width="1917" height="1079" alt="full-stack-hotel1" src="https://github.com/user-attachments/assets/3a7fcb89-ee92-47c9-8a93-2b09c1d17b4e" />
+<img width="1919" height="931" alt="image" src="https://github.com/user-attachments/assets/be43bfdc-ff9d-4236-9af0-fbcc8cd28133" />
 
 
 🔗 **Live Demo:** [https://flask-ecommerce-platform-il6s.onrender.com](https://flask-ecommerce-platform-il6s.onrender.com)
@@ -71,7 +71,7 @@ A production-deployed e-commerce system built with Flask, PostgreSQL, Redis, and
 
 A simulated internal hotel operations system built with Django REST Framework and React, designed for staff and admin workflows rather than customer-facing booking.
 
-<img width="100%" alt="Hotel Management Project Collage" src="https://github.com/user-attachments/assets/c8e2c560-1754-4f90-b4c8-edc13a60b6e7" />
+<img width="1917" height="931" alt="image" src="https://github.com/user-attachments/assets/3a9c7704-5793-413f-900f-ba5067d6f917" />
 
 **🏗️ System Architecture:**
 *   **Frontend:** React + React Query
