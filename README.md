@@ -235,57 +235,7 @@ production debugging workflows
 
 ```
 <br>
-<h2 align="center">🛠️ The Tech Arsenal</h2>
-<h2 align="center">🛠️ The Tech Arsenal</h2>
-
-<div align="center">
-  <table>
-    <tr>
-      <td valign="top" width="200">
-        <h3 align="center">⚙️ Backend<br>& Data</h3>
-      </td>
-      <td>
-        <img src="https://shields.io" />
-        <img src="https://shields.io" />
-        <img src="https://shields.io" />
-        <img src="https://shields.io" />
-        <img src="https://shields.io" />
-        <img src="https://shields.io" />
-        <img src="https://shields.io" />
-        <img src="https://shields.io" />
-        <img src="https://shields.io" />
-      </td>
-    </tr>
-    <tr>
-      <td valign="top" width="200">
-        <h3 align="center">🖥️ Frontend<br>& Interface</h3>
-      </td>
-      <td>
-        <img src="https://shields.io" />
-        <img src="https://shields.io" />
-        <img src="https://shields.io" />
-        <img src="https://shields.io" />
-        <img src="https://shields.io" />
-        <img src="https://shields.io" />
-        <img src="https://shields.io" />
-      </td>
-    </tr>
-    <tr>
-      <td valign="top" width="200">
-        <h3 align="center">🚢 DevOps<br>& Tooling</h3>
-      </td>
-      <td>
-        <img src="https://shields.io" />
-        <img src="https://shields.io" />
-        <img src="https://shields.io" />
-        <img src="https://shields.io" />
-        <img src="https://shields.io" />
-        <img src="https://shields.io" />
-        <img src="https://shields.io" />
-      </td>
-    </tr>
-  </table>
-</div>
+<h2 align="center" color="red">🛠️ The Tech Arsenal</h2>
 
 ### Backend Engine
 
