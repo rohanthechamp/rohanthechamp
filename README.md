@@ -144,25 +144,6 @@ A simulated internal hotel operations system built with Django REST Framework an
 
 ---
 
-## 🏗️ Distributed System Architecture
-
-<div align="center">
-
-| Layer | Technology |
-|---|---|
-| Frontend/UI | Django Templates |
-| Backend API | Django |
-| Database | PostgreSQL |
-| Async Queue | RabbitMQ |
-| Background Workers | Celery |
-| Cache Layer | Redis |
-| OCR Engine | Tesseract OCR |
-| NLP Processing | SpaCy |
-| Containerization | Docker Compose |
-
-</div>
-
-
 <br>
 <h2 align="center" color="red">🛠️ The Tech Arsenal</h2>
 
