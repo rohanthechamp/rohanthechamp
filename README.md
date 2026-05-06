@@ -1,6 +1,3 @@
-Here is the reorganized and polished version of your README. I merged the detailed section about your "Hotel Internal Management Tool" into the main **Featured Systems** section, replacing the brief placeholder. I also integrated the live links and the project collage image exactly where they belong so the whole profile flows perfectly. 
-
-You can copy and paste this directly into your GitHub `README.md`:
 
 ***
 
