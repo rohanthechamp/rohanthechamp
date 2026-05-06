@@ -132,16 +132,6 @@ A simulated internal hotel operations system built with Django REST Framework an
 <tr>
 <td width="50%">
 
-### 📄 Intelligent Receipt Processing
-- OCR extraction using Tesseract
-- NLP parsing workflows using SpaCy
-- Automated expense categorization
-- Async document ingestion pipelines
-
-</td>
-
-<td width="50%">
-
 ### ⚡ Backend Infrastructure
 - Celery + RabbitMQ task orchestration
 - Redis-backed caching layer
@@ -172,68 +162,7 @@ A simulated internal hotel operations system built with Django REST Framework an
 
 </div>
 
----
 
-## 🧠 Engineering Highlights
-
-- Separated OCR/NLP workloads from synchronous web requests using distributed task queues
-- Designed scalable asynchronous ingestion pipelines for receipt processing
-- Implemented Redis caching strategies to improve dashboard responsiveness
-- Applied PostgreSQL indexing optimizations for search-heavy financial queries
-- Containerized the infrastructure stack for environment consistency and orchestration
-
----
-
-## 📈 Scalability & Systems Thinking
-
-<table>
-<tr>
-<td width="50%">
-
-### 🔄 Distributed Processing
-- Async processing boundaries
-- Worker-based architecture
-- Queue-driven workflows
-- Long-running task isolation
-
-</td>
-
-<td width="50%">
-
-### 🗄️ Backend Scalability
-- Database optimization strategies
-- Cache coordination patterns
-- Service-oriented infrastructure
-- Observability-focused design
-
-</td>
-</tr>
-</table>
-
----
-
-## 🔬 Current Engineering Focus
-
-```txt
-→ Structured logging & observability
-→ Service-layer architecture refactoring
-→ Secure configuration management
-→ Automated testing infrastructure
-→ Cloud object storage integration
-→ Production-grade telemetry & monitoring
-🚀 Architectural Direction
-
-This project explores real-world backend engineering concerns including:
-
-distributed systems
-task orchestration
-asynchronous compute workloads
-infrastructure isolation
-backend scalability patterns
-operational reliability
-production debugging workflows
-
-```
 <br>
 <h2 align="center" color="red">🛠️ The Tech Arsenal</h2>
 
