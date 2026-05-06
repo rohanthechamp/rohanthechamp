@@ -79,7 +79,7 @@ A production-deployed e-commerce system built with Flask, PostgreSQL, Redis, and
 
 A simulated internal hotel operations system built with Django REST Framework and React, designed for staff and admin workflows rather than customer-facing booking.
 
-<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/a86b7da9-9169-4133-b9aa-ed21be45eca9" />
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/720e1a82-bd81-402f-89cb-1d8ce91172e5" />
 
 
 **🏗️ System Architecture:**
