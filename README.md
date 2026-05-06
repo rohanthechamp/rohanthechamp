@@ -69,6 +69,8 @@ A production-deployed e-commerce system built with Flask, PostgreSQL, Redis, and
 
 <img width="1906" height="929" alt="image" src="https://github.com/user-attachments/assets/79e834b6-57c2-4378-a8af-3b60cc792d47" />
 
+---
+
 
 <h1 align="center">
   <b style="color: #FF5733;">02 — </b>
