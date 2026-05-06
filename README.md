@@ -97,8 +97,10 @@ A simulated internal hotel operations system built with Django REST Framework an
 *   How to design internal tools instead of only customer-facing apps.
 
 🔗 **Live Frontend:** [https://hotel-management-fullstack-ten.vercel.app](https://hotel-management-fullstack-ten.vercel.app)
+
 🔗 **Backend API:** [https://hotel-management-fullstack-production.up.railway.app](https://hotel-management-fullstack-production.up.railway.app)
-🔗 **GitHub Repo:** [Source Code]
+
+
 
 ### 03 — Django Expense Tracker
 
