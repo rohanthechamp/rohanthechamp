@@ -113,77 +113,128 @@ A simulated internal hotel operations system built with Django REST Framework an
 
 <br>
 <h1 align="center">
-  <b style="color: #FF5733;">03 — </b>
-  <span style="color: #F1C40F;"><b></b>Expense</span> 
-  <span style="color: #27AE60;"><b>Tracking</b></span> 
-  <span style="color: #2C3E50;"><b>Platform</b></span>
+  💰 Distributed Expense Processing Platform
 </h1>
 
-A production-oriented expense tracking system engineered with Django, PostgreSQL, Redis, Celery, RabbitMQ, OCR pipelines, and NLP-based receipt processing.
+<p align="center">
+  <b>Django • PostgreSQL • Redis • Celery • RabbitMQ • OCR • NLP</b>
+</p>
 
-Designed as a distributed backend architecture capable of handling asynchronous document ingestion, financial analytics, and automated expense categorization workflows.
-
----
-
-#### ⚙️ Core Engineering Features
-
-- OCR-based receipt extraction using Tesseract
-- NLP-powered parsing workflows using SpaCy
-- Asynchronous processing pipelines using Celery + RabbitMQ
-- Redis-backed caching for dashboard performance optimization
-- PostgreSQL database with advanced indexing strategies
-- Containerized multi-service orchestration using Docker Compose
-- Custom Django QuerySets and Managers for reusable database logic
-- Structured financial reporting and expense analytics
+<p align="center">
+  Production-oriented expense tracking system engineered around asynchronous processing, distributed workers, OCR pipelines, and scalable backend architecture.
+</p>
 
 ---
 
-#### 🏗️ Distributed System Architecture
+## ⚙️ Core Engineering Features
 
+<table>
+<tr>
+<td width="50%">
 
-Frontend/UI       → Django Templates
-Backend API       → Django
-Database          → PostgreSQL
-Async Queue       → RabbitMQ
-Background Jobs   → Celery Workers
-Caching Layer     → Redis
-OCR Engine        → Tesseract OCR
-NLP Processing    → SpaCy
-Containerization  → Docker Compose
-🧠 Engineering Highlights
-Separated heavy OCR/NLP workloads from synchronous web requests using distributed task queues
-Implemented scalable async ingestion pipelines for receipt processing
-Designed Redis caching strategies to improve dashboard responsiveness
-Applied PostgreSQL indexing optimizations for search-heavy financial queries
-Containerized the entire infrastructure stack for environment consistency and orchestration
-📈 Scalability Thinking
+### 📄 Intelligent Receipt Processing
+- OCR extraction using Tesseract
+- NLP parsing workflows using SpaCy
+- Automated expense categorization
+- Async document ingestion pipelines
 
-The architecture was intentionally designed around:
+</td>
 
-async processing boundaries
-distributed compute workloads
-scalable worker-based processing
-database optimization strategies
-service-oriented infrastructure
+<td width="50%">
 
-The project explores real-world backend engineering concerns such as:
+### ⚡ Backend Infrastructure
+- Celery + RabbitMQ task orchestration
+- Redis-backed caching layer
+- PostgreSQL indexing optimizations
+- Docker Compose multi-service orchestration
 
+</td>
+</tr>
+</table>
+
+---
+
+## 🏗️ Distributed System Architecture
+
+<div align="center">
+
+| Layer | Technology |
+|---|---|
+| Frontend/UI | Django Templates |
+| Backend API | Django |
+| Database | PostgreSQL |
+| Async Queue | RabbitMQ |
+| Background Workers | Celery |
+| Cache Layer | Redis |
+| OCR Engine | Tesseract OCR |
+| NLP Processing | SpaCy |
+| Containerization | Docker Compose |
+
+</div>
+
+---
+
+## 🧠 Engineering Highlights
+
+- Separated OCR/NLP workloads from synchronous web requests using distributed task queues
+- Designed scalable asynchronous ingestion pipelines for receipt processing
+- Implemented Redis caching strategies to improve dashboard responsiveness
+- Applied PostgreSQL indexing optimizations for search-heavy financial queries
+- Containerized the infrastructure stack for environment consistency and orchestration
+
+---
+
+## 📈 Scalability & Systems Thinking
+
+<table>
+<tr>
+<td width="50%">
+
+### 🔄 Distributed Processing
+- Async processing boundaries
+- Worker-based architecture
+- Queue-driven workflows
+- Long-running task isolation
+
+</td>
+
+<td width="50%">
+
+### 🗄️ Backend Scalability
+- Database optimization strategies
+- Cache coordination patterns
+- Service-oriented infrastructure
+- Observability-focused design
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🔬 Current Engineering Focus
+
+```txt
+→ Structured logging & observability
+→ Service-layer architecture refactoring
+→ Secure configuration management
+→ Automated testing infrastructure
+→ Cloud object storage integration
+→ Production-grade telemetry & monitoring
+🚀 Architectural Direction
+
+This project explores real-world backend engineering concerns including:
+
+distributed systems
 task orchestration
-cache coordination
+asynchronous compute workloads
 infrastructure isolation
-long-running compute workflows
-observability and scaling patterns
-🔬 Current Focus Areas
+backend scalability patterns
+operational reliability
+production debugging workflows
 
-Currently improving:
-
-observability and structured logging
-service-layer architecture refactoring
-secure configuration management
-automated testing infrastructure
-cloud object storage integration
-production-grade monitoring and telemetry
-
+```
+<br>
 ## 🛠️ Tech Universe
 
 ### Backend Engine
