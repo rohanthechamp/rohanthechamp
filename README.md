@@ -224,12 +224,13 @@ A backend-heavy project focused on structured finance workflows, automation, and
 
 ---
 
-## 📊 GitHub Stats
+<h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="[https://github-readme-stats.vercel.app/api?username=rohanthechamp&theme=dark&hide_border=false&include_all_commits=false&count_private=false](https://github-readme-stats.vercel.app/api?username=rohanthechamp&theme=dark&hide_border=false&include_all_commits=false&count_private=false)" alt="GitHub Stats" />
+  <img src="https://vercel.app" alt="GitHub Stats" />
   <br/>
-  <img src="[https://nirzak-streak-stats.vercel.app/?user=rohanthechamp&theme=dark&hide_border=false](https://nirzak-streak-stats.vercel.app/?user=rohanthechamp&theme=dark&hide_border=false)" alt="GitHub Streak" />
+  <img src="https://demolab.com" alt="GitHub Streak" />
   <br/>
-  <img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=rohanthechamp&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact](https://github-readme-stats.vercel.app/api/top-langs/?username=rohanthechamp&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)" alt="Top Languages" />
+  <img src="https://vercel.app" alt="Top Languages" />
 </p>
+
