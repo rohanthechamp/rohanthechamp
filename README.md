@@ -51,7 +51,12 @@ I build applications like they are going to be used.
 
 ## 🚀 Featured Systems
 
-### 01 — Flask E-Commerce Platform
+<h1 align="center">
+  <b style="color: #FF5733;">01 — </b>
+  <span style="color: #44A08D;"><b>Flask</b></span> 
+  <span style="color: #0984E3;"><b>E-Commerce</b></span> 
+  <span style="color: #6C5CE7;"><b>Platform</b></span>
+</h1>
 
 A production-deployed e-commerce system built with Flask, PostgreSQL, Redis, and real backend workflows.
 
@@ -65,7 +70,12 @@ A production-deployed e-commerce system built with Flask, PostgreSQL, Redis, and
 <img width="1906" height="929" alt="image" src="https://github.com/user-attachments/assets/79e834b6-57c2-4378-a8af-3b60cc792d47" />
 
 
-### 02 — Production-Style Hotel Internal Management Tool
+<h1 align="center">
+  <b style="color: #FF5733;">02 — </b>
+  <span style="color: #00A8E8;"><b>Production-Style</b></span> 
+  <span style="color: #6A0572;"><b>Hotel Internal</b></span> 
+  <span style="color: #2ECC71;"><b>Management Tool</b></span>
+</h1>
 
 A simulated internal hotel operations system built with Django REST Framework and React, designed for staff and admin workflows rather than customer-facing booking.
 
