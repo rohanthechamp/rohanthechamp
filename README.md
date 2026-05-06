@@ -62,7 +62,7 @@ A production-deployed e-commerce system built with Flask, PostgreSQL, Redis, and
 *   Admin dashboard
 *   Deployed on Render
 
-<img width="1919" height="931" alt="image" src="https://github.com/user-attachments/assets/be43bfdc-ff9d-4236-9af0-fbcc8cd28133" />
+![Uploading image.png…]()
 
 
 ### 02 — Production-Style Hotel Internal Management Tool
