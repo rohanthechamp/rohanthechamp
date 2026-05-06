@@ -1,4 +1,4 @@
-<h1 align="center">ROHAN MALVE 👋</h1>
+<h1 align="center">Rohan Malve 👋</h1>
 
 <p align="center">
   <b>Backend-Focused Full-Stack Developer</b> <br/>
