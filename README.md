@@ -1,4 +1,4 @@
-<img width="658" height="359" alt="image" src="https://github.com/user-attachments/assets/86033e3c-99c8-41c4-bb4d-4119eb29b78e" /><h1 align="center">ROHAN MALVE 👋</h1>
+<h1 align="center">ROHAN MALVE 👋</h1>
 
 
 
