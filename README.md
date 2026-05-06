@@ -268,15 +268,6 @@ A simulated internal hotel operations system built with Django REST Framework an
 
 ---
 
-<h2 align="center">📊 GitHub Stats</h2>
-
-<p align="center">
-  <img src="https://vercel.app" alt="GitHub Stats" />
-  <br/>
-  <img src="https://demolab.com" alt="GitHub Streak" />
-  <br/>
-  <img src="https://vercel.app" alt="Top Languages" />
-</p>
 
 
 <p align="center">
