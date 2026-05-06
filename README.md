@@ -1,32 +1,52 @@
+<img width="658" height="359" alt="image" src="https://github.com/user-attachments/assets/86033e3c-99c8-41c4-bb4d-4119eb29b78e" /><h1 align="center">ROHAN MALVE 👋</h1>
 
-***
 
-<img width="100%" alt="Developer Banner" src="[https://github.com/user-attachments/assets/86033e3c-99c8-41c4-bb4d-4119eb29b78e](https://github.com/user-attachments/assets/86033e3c-99c8-41c4-bb4d-4119eb29b78e)" />
-
-<h1 align="center">ROHAN MALVE 👋</h1>
 
 <p align="center">
+
   <b>Backend-Focused Full-Stack Developer</b> <br/>
+
   I build production-ready systems with <b>Django REST</b>, <b>Flask</b>, <b>PostgreSQL</b>, <b>React</b>, and <b>Next.js</b>.
+
 </p>
 
-<p align="center">
-  <img src="[https://img.shields.io/badge/Build%20Ship%20Debug-111827?style=for-the-badge&logo=code&logoColor=white](https://img.shields.io/badge/Build%20Ship%20Debug-111827?style=for-the-badge&logo=code&logoColor=white)" alt="Build Ship Debug" />
-  <img src="[https://img.shields.io/badge/Backend%20First-7C3AED?style=for-the-badge&logo=serverless&logoColor=white](https://img.shields.io/badge/Backend%20First-7C3AED?style=for-the-badge&logo=serverless&logoColor=white)" alt="Backend First" />
-  <img src="[https://img.shields.io/badge/Production%20Mindset-0F766E?style=for-the-badge&logo=checkmarx&logoColor=white](https://img.shields.io/badge/Production%20Mindset-0F766E?style=for-the-badge&logo=checkmarx&logoColor=white)" alt="Production Mindset" />
-</p>
+
 
 <p align="center">
-  <a href="[https://linkedin.com/in/rohanmalve](https://linkedin.com/in/rohanmalve)" target="_blank">
-    <img src="[https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)" alt="LinkedIn" />
+
+  <img src="https://img.shields.io/badge/Build%20Ship%20Debug-111827?style=for-the-badge&logo=code&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/Backend%20First-7C3AED?style=for-the-badge&logo=serverless&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/Production%20Mindset-0F766E?style=for-the-badge&logo=checkmarx&logoColor=white" />
+
+</p>
+
+
+
+<p align="center">
+
+  <a href="https://linkedin.com/in/rohanmalve" target="_blank">
+
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+
   </a>
-  <a href="[https://github.com/rohanthechamp](https://github.com/rohanthechamp)" target="_blank">
-    <img src="[https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)" alt="GitHub" />
+
+  <a href="https://github.com/rohanthechamp" target="_blank">
+
+    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+
   </a>
+
   <a href="mailto:rohanmalve810@gmail.com">
-    <img src="[https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)" alt="Email" />
+
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+
   </a>
+
 </p>
+
+
 
 ---
 
