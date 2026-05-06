@@ -114,15 +114,75 @@ A simulated internal hotel operations system built with Django REST Framework an
 <br>
 <h1 align="center">
   <b style="color: #FF5733;">03 — </b>
-  <span style="color: #FFD700;"><b>Django</b></span> 
-  <span style="color: #27AE60;"><b>Expense</b></span> 
-  <span style="color: #2C3E50;"><b>Tracker</b></span>
+  <span style="color: #F1C40F;"><b></b>Expense</span> 
+  <span style="color: #27AE60;"><b>Tracking</b></span> 
+  <span style="color: #2C3E50;"><b>Platform</b></span>
 </h1>
-in 
 
-A backend-heavy project focused on structured finance workflows, automation, and data handling.
+A production-oriented expense tracking system engineered with Django, PostgreSQL, Redis, Celery, RabbitMQ, OCR pipelines, and NLP-based receipt processing.
+
+Designed as a distributed backend architecture capable of handling asynchronous document ingestion, financial analytics, and automated expense categorization workflows.
 
 ---
+
+#### ⚙️ Core Engineering Features
+
+- OCR-based receipt extraction using Tesseract
+- NLP-powered parsing workflows using SpaCy
+- Asynchronous processing pipelines using Celery + RabbitMQ
+- Redis-backed caching for dashboard performance optimization
+- PostgreSQL database with advanced indexing strategies
+- Containerized multi-service orchestration using Docker Compose
+- Custom Django QuerySets and Managers for reusable database logic
+- Structured financial reporting and expense analytics
+
+---
+
+#### 🏗️ Distributed System Architecture
+
+
+Frontend/UI       → Django Templates
+Backend API       → Django
+Database          → PostgreSQL
+Async Queue       → RabbitMQ
+Background Jobs   → Celery Workers
+Caching Layer     → Redis
+OCR Engine        → Tesseract OCR
+NLP Processing    → SpaCy
+Containerization  → Docker Compose
+🧠 Engineering Highlights
+Separated heavy OCR/NLP workloads from synchronous web requests using distributed task queues
+Implemented scalable async ingestion pipelines for receipt processing
+Designed Redis caching strategies to improve dashboard responsiveness
+Applied PostgreSQL indexing optimizations for search-heavy financial queries
+Containerized the entire infrastructure stack for environment consistency and orchestration
+📈 Scalability Thinking
+
+The architecture was intentionally designed around:
+
+async processing boundaries
+distributed compute workloads
+scalable worker-based processing
+database optimization strategies
+service-oriented infrastructure
+
+The project explores real-world backend engineering concerns such as:
+
+task orchestration
+cache coordination
+infrastructure isolation
+long-running compute workflows
+observability and scaling patterns
+🔬 Current Focus Areas
+
+Currently improving:
+
+observability and structured logging
+service-layer architecture refactoring
+secure configuration management
+automated testing infrastructure
+cloud object storage integration
+production-grade monitoring and telemetry
 
 ## 🛠️ Tech Universe
 
